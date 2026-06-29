@@ -2,7 +2,7 @@
 
 Official download repository for **Bastions Dayz Tools**, a free Windows desktop app for editing DayZ server configuration files without manually digging through XML and JSON.
 
-[Download Latest Installer](https://github.com/MrBastion3/bastions-tools-releases1/releases/download/v1.3.7/Bastions-Dayz-Tools-Setup-1.3.7.exe)
+[Download Latest Installer](https://github.com/MrBastion3/Bastions_Dayz_Tools/releases/download/v1.3.7/Bastions-Dayz-Tools-1.3.7.exe)
 
 ## Latest Release
 
