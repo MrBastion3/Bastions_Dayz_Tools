@@ -51,7 +51,7 @@ The desktop app checks GitHub Releases for newer versions. When a new public bui
 ## Direct Download URL
 
 ```text
-https://github.com/MrBastion3/bastions-tools-releases1/releases/download/v1.3.7/Bastions-Dayz-Tools-Setup-1.3.7.exe
+https://github.com/MrBastion3/Bastions_Dayz_Tools/releases/download/v1.3.7/Bastions-Dayz-Tools-1.3.7.exe
 ```
 
 ## Support
