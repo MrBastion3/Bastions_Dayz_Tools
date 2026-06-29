@@ -9,7 +9,7 @@ Official download repository for **Bastions Dayz Tools**, a free Windows desktop
 | Item | Details |
 |---|---|
 | Version | `v1.3.7` |
-| Installer | `Bastions-Dayz-Tools-Setup-1.3.7.exe` |
+| Installer | `Bastions-Dayz-Tools-1.3.7.exe` |
 | Platform | Windows x64 |
 | Delivery | GitHub Releases |
 | Updates | Auto-update supported in the desktop app |
@@ -29,7 +29,7 @@ Bastions Dayz Tools gives DayZ server owners a clean visual workspace for common
 ## Install Steps
 
 1. Download the latest setup file above.
-2. Run `Bastions-Dayz-Tools-Setup-1.3.7.exe`.
+2. Run `Bastions-Dayz-Tools-1.3.7.exe`.
 3. Open Bastions Dayz Tools.
 4. Choose or create your DayZ server workspace.
 5. Start editing your configuration files from the app panels.
